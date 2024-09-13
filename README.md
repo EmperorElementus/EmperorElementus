@@ -7,10 +7,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Deep%20Learning-%2300BFFF.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/AI-%2312100E.svg?&style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
   <img src="https://img.shields.io/badge/Automation-%234B0082.svg?&style=for-the-badge&logo=github-actions&logoColor=white" alt="Automation" />
@@ -36,22 +32,11 @@
 
 ---
 
-### 🔥 GitHub Streaks
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?theme=dark&hide_border=true" alt="GitHub Streaks" />
-</p>
-
----
-
 ### 👁️ KokuShibo's Vision: Projects That Shape the Future
 - **Project Alpha**: Harnessing the power of neural networks for anomaly detection.
 - **Project Omega**: An AI-powered system that learns and adapts in real time, much like a demon sharpening its instincts.
 - **Project Infinity**: A reinforcement learning experiment pushing the boundaries of what's possible in automation.
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?style=flat-square&color=blue" alt="Profile Views" />
-</p>
 
 <h3 align="center">🌑 <em>"Code like a warrior, automate like a demon." — KokuShibo</em> 🌑</h3>
