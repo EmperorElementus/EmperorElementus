@@ -1,10 +1,8 @@
 <h1 align="center">👁️ Welcome to the Realm of KokuShibo 👁️</h1>
 
 <p align="center">
-  <em>“Perfection is an endless pursuit, and I've crossed the boundary between light and darkness to master it.”</em>
+ <em>“Coding with the precision of KokuShibo’s sword—where every line is a strike of mastery.”</em>
 </p>
-
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deep%20Learning-%2300BFFF.svg?&style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
@@ -12,14 +10,10 @@
   <img src="https://img.shields.io/badge/Automation-%234B0082.svg?&style=for-the-badge&logo=github-actions&logoColor=white" alt="Automation" />
 </p>
 
----
-
 ### 🧑‍💻 About Me
 - ⚔️ **Machine Learning Samurai**: From website creator to AI visionary, I've sharpened my code to slice through complexity with precision.
 - 🌑 **Dark Side Developer**: Once I wrote websites, now I craft machine learning models and push the boundaries of AI, much like KokuShibo transcended his human form for ultimate power.
 - ⚡ **Efficiency First**: My code is clean, scalable, and powerful — always on the edge of perfection, just like the blade of a demon.
-
----
 
 ### 🛠️ Tech Stack
 <p align="center">
@@ -30,8 +24,6 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
-
 ### 📊 Statistics
 
 <p align="center">
@@ -39,13 +31,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorElementus&theme=dark" alt="GitHub Streak Stats" />
 </p>
 
----
-
 ### 👁️ KokuShibo's Vision: Projects That Shape the Future
 - **Project Alpha**: Harnessing the power of neural networks for anomaly detection.
 - **Project Omega**: An AI-powered system that learns and adapts in real time, much like a demon sharpening its instincts.
 - **Project Infinity**: A reinforcement learning experiment pushing the boundaries of what's possible in automation.
-
----
 
 <h3 align="center">🌑 <em>"Code like a warrior, automate like a demon." — KokuShibo</em> 🌑</h3>
