@@ -1,4 +1,4 @@
-# 👁️ Welcome to the Realm of KokuShibo 👁️
+<h1 align="center">👁️ Welcome to the Realm of KokuShibo 👁️</h1>
 
 <p align="center">
   <em>“Perfection is an endless pursuit, and I've crossed the boundary between light and darkness to master it.”</em>
@@ -28,14 +28,6 @@
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true&hide=prs&hide_border=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark" alt="GitHub Streak"/>
 </p>
 
 ---
