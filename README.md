@@ -32,6 +32,15 @@
 
 ---
 
+### 📊 Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmperorElementus&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmperorElementus&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 ### 👁️ KokuShibo's Vision: Projects That Shape the Future
 - **Project Alpha**: Harnessing the power of neural networks for anomaly detection.
 - **Project Omega**: An AI-powered system that learns and adapts in real time, much like a demon sharpening its instincts.
